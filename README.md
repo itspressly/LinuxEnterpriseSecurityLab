@@ -74,7 +74,22 @@ SSH
 
 ## Screenshots
 
-(Add screenshots)
+<img width="682" height="717" alt="image" src="https://github.com/user-attachments/assets/78e66bc1-1b7d-4e1b-b554-e5993c1ae76d" />
+
+<img width="680" height="717" alt="image" src="https://github.com/user-attachments/assets/b5edd5dd-a79b-42a8-98e1-c9ab54020713" />
+
+<img width="292" height="115" alt="image" src="https://github.com/user-attachments/assets/0c1e1946-dc1e-4393-aaea-48c5a73b88b6" />
+
+
+<img width="130" height="188" alt="image" src="https://github.com/user-attachments/assets/16e2806c-76f8-4f63-8a1b-fb7aac5535e1" />
+
+<img width="375" height="115" alt="image" src="https://github.com/user-attachments/assets/b9638c44-3b6f-47ba-85f7-d0e7aec4b7bf" />
+
+<img width="242" height="161" alt="image" src="https://github.com/user-attachments/assets/c476d579-f4ec-49df-8409-6a8a563dc0ec" />
+
+<img width="388" height="185" alt="image" src="https://github.com/user-attachments/assets/e7519155-bd07-4831-9b21-21c9c79c33bc" />
+
+
 
 ---
 
