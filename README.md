@@ -89,6 +89,9 @@ SSH
 
 <img width="388" height="185" alt="image" src="https://github.com/user-attachments/assets/e7519155-bd07-4831-9b21-21c9c79c33bc" />
 
+<img width="361" height="281" alt="image" src="https://github.com/user-attachments/assets/57b3f61e-6763-4118-88b7-9b22dedd9a6b" />
+
+<img width="434" height="329" alt="image" src="https://github.com/user-attachments/assets/0740c3bb-8949-4034-b9a7-dcbbcd8b0b10" />
 
 
 ---
