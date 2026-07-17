@@ -105,7 +105,10 @@ SSH
 
 ## Architecture
 
-(Add architecture image)
+<img width="538" height="643" alt="image" src="https://github.com/user-attachments/assets/a1dcccc9-a975-4882-9db1-7407ca10e16c" />
+
+
+ 
 
 ---
 
